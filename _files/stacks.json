@@ -10,6 +10,21 @@
       "type": "stack",
       "categories": ["Data Logging"],
       "has_dataset": false,
+       "packages":{
+         "database":{
+            "title":"Database",
+            "operators":[
+               "PostgreSQL",
+               "MariaDB"
+            ]
+         },
+         "security":{
+            "title":"Security",
+            "operators":[
+               "Express"
+            ]
+         }
+      },
       "installTime":"10 minutes",
       "git_url": "",
       "git_commit": "",
