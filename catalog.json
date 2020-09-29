@@ -1,0 +1,52 @@
+{
+    "title": "Operator Playground Home",
+    "owners": {
+        "8J2FDdi": [
+            "all"
+        ]
+    },
+    "editors": {},
+    "viewers": {
+        "all": [
+            "all"
+        ]
+    },
+    "copyright": {},
+    "documents": [
+        "amq-streams",
+        "cassandra",
+        "datagrid",
+        "dyanatrace",
+        "elastic-cloud",
+        "etcd",
+        "grafana",
+        "jenkins",
+        "keda",
+        "knative",
+        "kong",
+        "kubeflow",
+        "mariadb",
+        "metering",
+        "minio",
+        "mongodb",
+        "pipelines",
+        "postgresql",
+        "prometheus",
+        "redis",
+        "serverless"
+    ],
+    "catalogInfo": {
+        "tiles": [
+            {
+                "title": "Custom Stack",
+                "description": "Prepare your own operator stack using various operators",
+                "logo": "_images/Custom.png",
+                "enabled": true
+            }
+        ],
+        "defaultVMDuration": "1",
+        "stacks": "_files/stacks.json",
+        "appLayout": "accordion",
+        "appTheme": "g90",
+    }
+}
