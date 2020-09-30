@@ -2097,7 +2097,7 @@
       "categories": ["MVC", "MongoDB", "Express"],
       "has_dataset": true,
       "git_url": "https://github.com/op-playground/MVC-Sample-Stack.git",
-      "git_commit": "eeb395a4f8ec4be27be45ae9d8882aa97dad4512",
+      "git_commit": "bb3dcfdb46ef49e1b8a146e3028371583357eaaf",
       "git_reponame": "MVC-Sample-Stack",
       "packages":{
          "frontend":{
